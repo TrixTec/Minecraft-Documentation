@@ -15,3 +15,4 @@ NOTE: If you want to update to the newest version of minecraft, you have to wait
 
 # Documentation ID - 0001
 This document may be outdated, go to my GitHub and search for the ID to get the newest documenation document
+https://github.com/TrixTec/Minecraft-Documentation
